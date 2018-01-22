@@ -1,0 +1,24 @@
+HTTrack3.48-22+htsswf+htsjava launched on Fri, 29 Apr 2016 22:59:36 at http://webapplayers.com/inspinia_admin-v2.5/dashboard_4_1.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qYC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" -Y http://webapplayers.com/inspinia_admin-v2.5/dashboard_4_1.html -O1 "C:\My Web Sites\MyLDRP" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+23:10:38	Error: 	"Forbidden" (403) at link 37.media.tumblr.com/9afe602b3e624aff6681b0b51f5a062b/tumblr_n4ef69szs71st5lhmo1_1280.jpg (from webapplayers.com/inspinia_admin-v2.5/profile.html)
+23:11:05	Error: 	"Not Found" (404) at link mydomain.com/images/image1.png (from webapplayers.com/inspinia_admin-v2.5/ecommerce_product.html)
+23:11:05	Error: 	"Not Found" (404) at link mydomain.com/images/image2.png (from webapplayers.com/inspinia_admin-v2.5/ecommerce_product.html)
+23:11:05	Error: 	"Not Found" (404) at link mydomain.com/images/image3.png (from webapplayers.com/inspinia_admin-v2.5/ecommerce_product.html)
+23:11:05	Error: 	"Not Found" (404) at link mydomain.com/images/image4.png (from webapplayers.com/inspinia_admin-v2.5/ecommerce_product.html)
+23:11:05	Error: 	"Not Found" (404) at link mydomain.com/images/image5.png (from webapplayers.com/inspinia_admin-v2.5/ecommerce_product.html)
+23:11:05	Error: 	"Not Found" (404) at link mydomain.com/images/image6.png (from webapplayers.com/inspinia_admin-v2.5/ecommerce_product.html)
+23:11:05	Error: 	"Not Found" (404) at link mydomain.com/images/image7.png (from webapplayers.com/inspinia_admin-v2.5/ecommerce_product.html)
+23:11:28	Error: 	"Not Found" (404) at link webapplayers.com/inspinia_admin-v2.5/css/plugins/fonts/glyphicons-halflings-regular.eot (from webapplayers.com/inspinia_admin-v2.5/css/plugins/summernote/summernote-bs3.css)
+23:11:28	Error: 	"Not Found" (404) at link webapplayers.com/inspinia_admin-v2.5/css/plugins/fonts/glyphicons-halflings-regular.eot? (from webapplayers.com/inspinia_admin-v2.5/css/plugins/summernote/summernote-bs3.css)
+23:11:28	Error: 	"Not Found" (404) at link webapplayers.com/inspinia_admin-v2.5/css/plugins/fonts/glyphicons-halflings-regular.woff (from webapplayers.com/inspinia_admin-v2.5/css/plugins/summernote/summernote-bs3.css)
+23:11:28	Error: 	"Not Found" (404) at link webapplayers.com/inspinia_admin-v2.5/css/plugins/fonts/glyphicons-halflings-regular.ttf (from webapplayers.com/inspinia_admin-v2.5/css/plugins/summernote/summernote-bs3.css)
+23:11:28	Error: 	"Not Found" (404) at link webapplayers.com/inspinia_admin-v2.5/css/plugins/fonts/glyphicons-halflings-regular.svg (from webapplayers.com/inspinia_admin-v2.5/css/plugins/summernote/summernote-bs3.css)
+
+HTTrack Website Copier/3.48-22 mirror complete in 13 minutes 2 seconds : 705 links scanned, 691 files written (24698955 bytes overall) [15086325 bytes received at 19291 bytes/sec], 12827472 bytes transferred using HTTP compression in 287 files, ratio 23%, 2.1 requests per connection
+(13 errors, 0 warnings, 0 messages)

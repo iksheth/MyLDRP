@@ -1,0 +1,25 @@
+Array
+(
+    [0] => CE201
+    [1] => CE202
+    [2] => CE203
+    [3] => CE204
+    [4] => CE205
+    [5] => CE206
+)
+Array
+(
+    [0] => B
+)
+
+Notice: Undefined variable: as in C:\wamp\www\MyLDRP\Semester_proc.php on line 20
+
+Call Stack:
+    0.0000     231592   1. {main}() C:\wamp\www\MyLDRP\Semester_proc.php:0
+
+
+Notice: Undefined variable: f2 in C:\wamp\www\MyLDRP\Semester_proc.php on line 20
+
+Call Stack:
+    0.0000     231592   1. {main}() C:\wamp\www\MyLDRP\Semester_proc.php:0
+

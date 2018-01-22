@@ -1,0 +1,144 @@
+Array
+(
+    [0] => 
+    [1] => Warning: strtotime(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in /Users/karansheth/Documents/Projects /MyLDRP/Automator/Sheet_proc.php on line 74
+    [2] => 
+    [3] => Warning: date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in /Users/karansheth/Documents/Projects /MyLDRP/Automator/Sheet_proc.php on line 74
+    [4] => 
+    [5] => Warning: strtotime(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in /Users/karansheth/Documents/Projects /MyLDRP/Automator/Sheet_proc.php on line 87
+    [6] => 
+    [7] => Warning: date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in /Users/karansheth/Documents/Projects /MyLDRP/Automator/Sheet_proc.php on line 87
+    [8] => {"Semester":"2","Division":"E","Subject_Code":"CE303","Total_Lecture":4,"1519BECE30001":3,"1519BECE30002":4,"1519BECE30003":4,"1519BECE30004":3,"1519BECE30005":3,"1519BECE30006":3,"1519BECE30007":1,"1519BECE30008":4,"1519BECE30009":2,"1519BECE30010":1,"1519BECE30011":0,"1519BECE30012":1,"1519BECE30013":2,"1519BECE30014":2,"1519BECE30015":2,"1519BECE30016":3,"1519BECE30017":1,"1519BECE30018":2,"1519BECE30019":2,"1519BECE30020":2,"1519BECE30021":0,"1519BECE30022":1,"1519BECE30023":3,"1519BECE30024":3,"1519BECE30025":2,"1519BECE30026":4,"1519BECE30027":4,"1519BECE30028":3,"1519BECE30029":2,"1519BECE30030":0,"1519BECE30031":3,"1519BECE30032":3,"1519BECE30033":3,"1519BECE30034":3,"1519BECE30035":3,"1519BECE30036":1,"1519BECE30037":4,"1519BECE30038":3,"1519BECE30039":4,"1519BECE30040":1,"1519BECE30041":1,"1519BECE30042":2,"1519BECE30043":2,"1519BECE30044":3,"1519BECE30045":3,"1519BECE30046":0,"1519BECE30047":0,"1519BECE30048":0,"1519BECE30049":4,"1519BECE30050":1,"1519BECE30051":2,"1519BECE30052":1,"1519BECE30053":4,"1519BECE30055":2,"1519BECE30056":2,"1519BECE30057":3,"1519BECE30058":3,"1519BECE30059":3,"1519BECE30060":3,"1519BECE30061":3,"1519BECE30062":1,"1519BECE30063":4,"1418BECE30022":0}
+    [9] => 
+    [10] => Warning: require(DataBase_Connections\db.php): failed to open stream: No such file or directory in /Users/karansheth/Documents/Projects /MyLDRP/Automator/Sheet_proc.php on line 186
+    [11] => 
+    [12] => Fatal error: require(): Failed opening required 'DataBase_Connections\db.php' (include_path='.:') in /Users/karansheth/Documents/Projects /MyLDRP/Automator/Sheet_proc.php on line 186
+)
+
+
+
+
+
+Warning: Invalid argument supplied for foreach() in /Users/karansheth/Documents/Projects /MyLDRP/Automator/array_ret_r2d.php on line 22
+Array
+(
+    [0] => 
+    [1] => Warning: strtotime(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in /Users/karansheth/Documents/Projects /MyLDRP/Automator/Sheet_proc.php on line 74
+    [2] => 
+    [3] => Warning: date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in /Users/karansheth/Documents/Projects /MyLDRP/Automator/Sheet_proc.php on line 74
+    [4] => 
+    [5] => Warning: strtotime(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in /Users/karansheth/Documents/Projects /MyLDRP/Automator/Sheet_proc.php on line 74
+    [6] => 
+    [7] => Warning: date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in /Users/karansheth/Documents/Projects /MyLDRP/Automator/Sheet_proc.php on line 74
+    [8] => 
+    [9] => Warning: strtotime(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in /Users/karansheth/Documents/Projects /MyLDRP/Automator/Sheet_proc.php on line 74
+    [10] => 
+    [11] => Warning: date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in /Users/karansheth/Documents/Projects /MyLDRP/Automator/Sheet_proc.php on line 74
+    [12] => 
+    [13] => Warning: strtotime(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in /Users/karansheth/Documents/Projects /MyLDRP/Automator/Sheet_proc.php on line 74
+    [14] => 
+    [15] => Warning: date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in /Users/karansheth/Documents/Projects /MyLDRP/Automator/Sheet_proc.php on line 74
+    [16] => 
+    [17] => Warning: strtotime(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in /Users/karansheth/Documents/Projects /MyLDRP/Automator/Sheet_proc.php on line 74
+    [18] => 
+    [19] => Warning: date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in /Users/karansheth/Documents/Projects /MyLDRP/Automator/Sheet_proc.php on line 74
+    [20] => 
+    [21] => Warning: strtotime(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in /Users/karansheth/Documents/Projects /MyLDRP/Automator/Sheet_proc.php on line 74
+    [22] => 
+    [23] => Warning: date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in /Users/karansheth/Documents/Projects /MyLDRP/Automator/Sheet_proc.php on line 74
+    [24] => 
+    [25] => Warning: strtotime(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in /Users/karansheth/Documents/Projects /MyLDRP/Automator/Sheet_proc.php on line 87
+    [26] => 
+    [27] => Warning: date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in /Users/karansheth/Documents/Projects /MyLDRP/Automator/Sheet_proc.php on line 87
+    [28] => {"Semester":"2","Division":"E","Subject_Code":"CE505","Total_Lecture":3,"1519BECE30001":3,"1519BECE30002":1,"1519BECE30003":2,"1519BECE30004":0,"1519BECE30005":0,"1519BECE30006":2,"1519BECE30007":0,"1519BECE30008":2,"1519BECE30009":3,"1519BECE30010":3,"1519BECE30011":0,"1519BECE30012":0,"1519BECE30013":0,"1519BECE30014":0,"1519BECE30015":0,"1519BECE30016":0,"1519BECE30017":1,"1519BECE30018":2,"1519BECE30019":0,"1519BECE30020":3,"1519BECE30022":0,"1519BECE30023":1,"1519BECE30024":0,"1519BECE30025":0,"1519BECE30026":0,"1519BECE30027":3,"1519BECE30028":0,"1519BECE30029":1,"1519BECE30030":1,"1519BECE30031":0,"1519BECE30032":2,"1519BECE30033":2,"1519BECE30034":2,"1519BECE30035":1,"1519BECE30036":1,"1519BECE30037":0,"1519BECE30038":3,"1519BECE30039":0,"1519BECE30040":0,"1519BECE30041":2,"1519BECE30042":0,"1519BECE30043":3,"1519BECE30044":3,"1519BECE30045":0,"1519BECE30046":0,"1519BECE30047":0,"1519BECE30048":3,"1519BECE30049":3,"1519BECE30050":3,"1519BECE30051":0,"1519BECE30052":1,"1519BECE30053":3,"1519BECE30055":0,"1519BECE30056":0,"1519BECE30057":2,"1519BECE30058":1,"1519BECE30059":3,"1519BECE30060":3,"1519BECE30061":2,"1519BECE30062":2,"1519BECE30063":1,"1418BECE30022":0}
+    [29] => 
+    [30] => Warning: require(DataBase_Connections\db.php): failed to open stream: No such file or directory in /Users/karansheth/Documents/Projects /MyLDRP/Automator/Sheet_proc.php on line 186
+    [31] => 
+    [32] => Fatal error: require(): Failed opening required 'DataBase_Connections\db.php' (include_path='.:') in /Users/karansheth/Documents/Projects /MyLDRP/Automator/Sheet_proc.php on line 186
+)
+
+
+
+
+
+Warning: Invalid argument supplied for foreach() in /Users/karansheth/Documents/Projects /MyLDRP/Automator/array_ret_r2d.php on line 22
+
+Warning: Invalid argument supplied for foreach() in /Users/karansheth/Documents/Projects /MyLDRP/Automator/array_ret_r2d.php on line 34
+Array
+(
+    [0] => 
+    [1] => Warning: strtotime(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in /Users/karansheth/Documents/Projects /MyLDRP/Automator/Sheet_proc.php on line 74
+    [2] => 
+    [3] => Warning: date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in /Users/karansheth/Documents/Projects /MyLDRP/Automator/Sheet_proc.php on line 74
+    [4] => 
+    [5] => Warning: strtotime(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in /Users/karansheth/Documents/Projects /MyLDRP/Automator/Sheet_proc.php on line 74
+    [6] => 
+    [7] => Warning: date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in /Users/karansheth/Documents/Projects /MyLDRP/Automator/Sheet_proc.php on line 74
+    [8] => 
+    [9] => Warning: strtotime(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in /Users/karansheth/Documents/Projects /MyLDRP/Automator/Sheet_proc.php on line 74
+    [10] => 
+    [11] => Warning: date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in /Users/karansheth/Documents/Projects /MyLDRP/Automator/Sheet_proc.php on line 74
+    [12] => 
+    [13] => Warning: strtotime(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in /Users/karansheth/Documents/Projects /MyLDRP/Automator/Sheet_proc.php on line 74
+    [14] => 
+    [15] => Warning: date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in /Users/karansheth/Documents/Projects /MyLDRP/Automator/Sheet_proc.php on line 74
+    [16] => 
+    [17] => Warning: strtotime(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in /Users/karansheth/Documents/Projects /MyLDRP/Automator/Sheet_proc.php on line 74
+    [18] => 
+    [19] => Warning: date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in /Users/karansheth/Documents/Projects /MyLDRP/Automator/Sheet_proc.php on line 74
+    [20] => 
+    [21] => Warning: strtotime(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in /Users/karansheth/Documents/Projects /MyLDRP/Automator/Sheet_proc.php on line 74
+    [22] => 
+    [23] => Warning: date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in /Users/karansheth/Documents/Projects /MyLDRP/Automator/Sheet_proc.php on line 74
+    [24] => 
+    [25] => Warning: strtotime(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in /Users/karansheth/Documents/Projects /MyLDRP/Automator/Sheet_proc.php on line 87
+    [26] => 
+    [27] => Warning: date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in /Users/karansheth/Documents/Projects /MyLDRP/Automator/Sheet_proc.php on line 87
+    [28] => {"Semester":"2","Division":"B","Subject_Code":"EG","Total_Lecture":3,"1519BECE30001":2,"1519BECE30002":3,"1519BECE30003":3,"1519BECE30004":2,"1519BECE30005":3,"1519BECE30006":3,"1519BECE30007":2,"1519BECE30008":2,"1519BECE30009":2,"1519BECE30010":2,"1519BECE30011":1,"1519BECE30012":0,"1519BECE30013":2,"1519BECE30014":2,"1519BECE30015":1,"1519BECE30016":3,"1519BECE30017":1,"1519BECE30018":3,"1519BECE30019":2,"1519BECE30020":2,"1519BECE30021":0,"1519BECE30022":0,"1519BECE30023":2,"1519BECE30024":3,"1519BECE30025":3,"1519BECE30026":3,"1519BECE30027":1,"1519BECE30028":2,"1519BECE30029":2,"1519BECE30030":2,"1519BECE30031":3,"1519BECE30032":3,"1519BECE30033":3,"1519BECE30034":3,"1519BECE30035":2,"1519BECE30036":1,"1519BECE30037":3,"1519BECE30038":3,"1519BECE30039":3,"1519BECE30040":1,"1519BECE30041":2,"1519BECE30042":2,"1519BECE30043":1,"1519BECE30044":3,"1519BECE30045":3,"1519BECE30046":0,"1519BECE30047":0,"1519BECE30048":0,"1519BECE30049":3,"1519BECE30050":1,"1519BECE30051":2,"1519BECE30052":0,"1519BECE30053":3,"1519BECE30055":3,"1519BECE30056":1,"1519BECE30057":3,"1519BECE30058":3,"1519BECE30059":3,"1519BECE30060":3,"1519BECE30061":3,"1519BECE30062":2,"1519BECE30063":3,"1418BECE30022":0}
+    [29] => 
+    [30] => Warning: require(DataBase_Connections\db.php): failed to open stream: No such file or directory in /Users/karansheth/Documents/Projects /MyLDRP/Automator/Sheet_proc.php on line 186
+    [31] => 
+    [32] => Fatal error: require(): Failed opening required 'DataBase_Connections\db.php' (include_path='.:') in /Users/karansheth/Documents/Projects /MyLDRP/Automator/Sheet_proc.php on line 186
+)
+
+
+
+
+
+Warning: Invalid argument supplied for foreach() in /Users/karansheth/Documents/Projects /MyLDRP/Automator/array_ret_r2d.php on line 22
+Array
+(
+    [0] => 
+    [1] => Warning: fopen(DataSheets/ENGG_PHY.csv): failed to open stream: No such file or directory in /Users/karansheth/Documents/Projects /MyLDRP/Automator/Sheet_proc.php on line 38
+    [2] => 
+    [3] => Warning: fgetcsv() expects parameter 1 to be resource, boolean given in /Users/karansheth/Documents/Projects /MyLDRP/Automator/Sheet_proc.php on line 56
+    [4] => 
+    [5] => Warning: fgetcsv() expects parameter 1 to be resource, boolean given in /Users/karansheth/Documents/Projects /MyLDRP/Automator/Sheet_proc.php on line 57
+    [6] => 
+    [7] => Warning: fgetcsv() expects parameter 1 to be resource, boolean given in /Users/karansheth/Documents/Projects /MyLDRP/Automator/Sheet_proc.php on line 58
+    [8] => 
+    [9] => Warning: fgetcsv() expects parameter 1 to be resource, boolean given in /Users/karansheth/Documents/Projects /MyLDRP/Automator/Sheet_proc.php on line 60
+    [10] => 
+    [11] => Warning: strtotime(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in /Users/karansheth/Documents/Projects /MyLDRP/Automator/Sheet_proc.php on line 87
+    [12] => 
+    [13] => Warning: date(): It is not safe to rely on the system's timezone settings. You are *required* to use the date.timezone setting or the date_default_timezone_set() function. In case you used any of those methods and you are still getting this warning, you most likely misspelled the timezone identifier. We selected the timezone 'UTC' for now, but please set date.timezone to select your timezone. in /Users/karansheth/Documents/Projects /MyLDRP/Automator/Sheet_proc.php on line 87
+    [14] => 
+    [15] => Warning: fgetcsv() expects parameter 1 to be resource, boolean given in /Users/karansheth/Documents/Projects /MyLDRP/Automator/Sheet_proc.php on line 107
+    [16] => 
+    [17] => Warning: fgetcsv() expects parameter 1 to be resource, boolean given in /Users/karansheth/Documents/Projects /MyLDRP/Automator/Sheet_proc.php on line 118
+    [18] => 
+    [19] => Warning: fclose() expects parameter 1 to be resource, boolean given in /Users/karansheth/Documents/Projects /MyLDRP/Automator/Sheet_proc.php on line 176
+    [20] => {"Semester":"2","Division":"B","Subject_Code":"CE505"}
+    [21] => 
+    [22] => Warning: require(DataBase_Connections\db.php): failed to open stream: No such file or directory in /Users/karansheth/Documents/Projects /MyLDRP/Automator/Sheet_proc.php on line 186
+    [23] => 
+    [24] => Fatal error: require(): Failed opening required 'DataBase_Connections\db.php' (include_path='.:') in /Users/karansheth/Documents/Projects /MyLDRP/Automator/Sheet_proc.php on line 186
+)
+
+
+
+
+
+Warning: Invalid argument supplied for foreach() in /Users/karansheth/Documents/Projects /MyLDRP/Automator/array_ret_r2d.php on line 22
+
+Warning: Invalid argument supplied for foreach() in /Users/karansheth/Documents/Projects /MyLDRP/Automator/array_ret_r2d.php on line 34
